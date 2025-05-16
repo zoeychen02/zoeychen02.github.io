@@ -1,95 +1,70 @@
-# Jekyll configuration
+# ================================
+# 核心配置
+# ================================
+title: "你的网站标题"  # 改为你的博客名称
+description: "你的网站描述"  # 改为你的描述
+baseurl: ""  # 必须留空！这是关键修复点
+url: "https://zoeychen02.github.io"  # 你的实际网址
+language: "zh-CN"  # 改为中文
+timezone: "Asia/Shanghai"  # 中国时区
+
+# ================================
+# Jekyll 引擎配置
+# ================================
 markdown: kramdown
 highlighter: rouge
-paginate: 100 # it will paginate after this number
-language: 'en-uk'
-words_per_minute: 200
+paginate: 5  # 每页显示5篇文章
+paginate_path: "/page:num/"  # 分页路径
+permalink: /:title/  # 文章永久链接格式
 
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+# ================================
+# 主题配置 (Jasper2专用)
+# ================================
+theme: jekyll-theme-jasper2
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Website info
-title: Ghost
-description: The professional publishing platform
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
-CNAME: #add cname for website to be created
+# ================================
+# 网站外观
+# ================================
+cover: "assets/images/blog-cover.jpg"  # 首页封面图
+logo: "assets/images/logo.png"  # 网站logo
+logo_dark: "assets/images/logo-dark.png"  # 深色模式logo
+favicon: "assets/images/favicon.ico"  # 网站图标
 
-# Social info
-navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
-# if 'True' the submit button is disabled for now, but you can change that
-# by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+# ================================
+# 社交链接 (按需修改)
+# ================================
+twitter: yourtwitter
+github: zoeychen02  # 你的GitHub账号
+email: your@email.com
 
-# Disqus
-disqus: False
-disqus_shortname: jekyllt # replace with your disqus username
+# ================================
+# 评论系统 (Disqus)
+# ================================
+disqus: false  # 如需启用改为true
+disqus_shortname: "your-disqus-shortname"  # 你的Disqus账号
 
-# Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+# ================================
+# 谷歌分析 (按需添加)
+# ================================
+google_analytics: "UA-XXXXX-X"  # 你的GA跟踪ID
 
-# Permalinks
-permalink: /:title
-# permalink: /author/:author
-# permalink: /tag/:tag
+# ================================
+# 作者信息 (需配套修改_data/authors.yml)
+# ================================
+default_author: your_name  # 默认作者名
 
-# Authors' info in `_data/authors.yml`
-# Tags' info in `_data/tags_info.yml`
-
-# gems and other configs
-plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed]
-
-feed:
-  path: feed.xml
-
-# Additional settings available on the front-matter
-# Site logo in the index.html (as in demo.ghost.io)
-# Author's page cover in _layouts/author.html
-# The same for page.html and tag.html layouts
-# Post's page cover as a per-post basis _posts/...
-# Disqus comments as a per-post basis
-# ...
-
-# Settings for building master branch with travis-ci
-# with jekyll-travis
-
-# Settings for deploy rake task
-# Username and repo of Github repo, e.g.
-# https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
-# repo defaults to USERNAME.github.io
-# Branch defaults to "source" for USERNAME.github.io
-# or "master" otherwise
-safe: False
-lsi: False
-username: jekyllt
-repo: jasper2
-branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyllt.github.io/jasper2/
-source_url:  https://github.com/jekyllt/jasper2/
-
+# ================================
+# 排除文件 (不要修改)
+# ================================
 exclude:
-  - assets/css
-  - node_modules
-  - vendor
-  - .travis.yml
   - Gemfile
   - Gemfile.lock
-  - GHOST.txt
-  - gulpfile.js
-  - LICENSE
-  - package.json
-  - package-lock.json
-  - Rakefile
+  - node_modules/
+  - vendor/
+  - .gitignore
   - README.md
-  - script.py
-  - changelog.md
-  - "*.Rmd"
-  - .git*
+  - LICENSE
