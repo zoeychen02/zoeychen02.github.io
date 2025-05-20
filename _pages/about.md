@@ -8,7 +8,7 @@ redirect_from:
 ---
 📧 u3631562@connect.hku.hk | 📱 (+86) 19821379715  
 🎓 Master of Science in Engineering (Mechanical Engineering) at The University of Hong Kong. 
-
+You can find myV here: [Chen Ziyu's Curriculum Vitae](../assets/curriculum_Vitae.pdf)
 ---
 # Research Focus
 My work bridges robotics, control systems, and mechanical design, with expertise in:  
