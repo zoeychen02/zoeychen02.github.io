@@ -93,7 +93,3 @@ My work bridges robotics, control systems, and mechanical design, with expertise
 - **Languages**: Chinese (Native), English (Fluent).  
 - **Tools**: Python, MATLAB, SolidWorks, AutoCAD, SPSS.  
 - **Robotics**: ROS, SLAM, MPC control, Adina structural analysis.  
-
---- 
-
-This template emphasizes your robotics expertise, academic rigor, and leadership in impactful projects. Let me know if you’d like to refine specific sections! 🚀
