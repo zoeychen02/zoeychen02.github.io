@@ -39,6 +39,9 @@ My work bridges robotics, control systems, and mechanical design, with expertise
 
 **Double Arm Robot** (First Inventor)  
 - Designed a single-MCU dual-arm system for industrial/hazardous tasks.
+
+
+
 ---
 
 
