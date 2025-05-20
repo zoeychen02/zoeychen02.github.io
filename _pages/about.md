@@ -6,13 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Chen Ziyu**  
 📧 u3631562@connect.hku.hk | 📱 (+86) 19821379715  
-🎓 Master of Science in Engineering (Mechanical Engineering) at The University of Hong Kong.  
+🎓 Master of Science in Engineering (Mechanical Engineering) at The University of Hong Kong. 
 
 ---
-
-**🔬 Research Focus**  
+permalink: /
+title: "Research Focus"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+--- 
 My work bridges robotics, control systems, and mechanical design, with expertise in:  
 🤖 **Bipedal & Legged Robots** (gait optimization, ZMP/MPC control, four-link mechanisms).  
 🚀 **3D Hopping Robots** (parallel 3-RSR mechanism, stability enhancement, hardware integration).  
