@@ -37,7 +37,7 @@ My work bridges robotics, control systems, and mechanical design, with expertise
 
 **Patents**  
 **Double Arm Robot** (First Inventor)  
-- Designed a single-MCU dual-arm system for industrial/hazardous tasks.  
+* Designed a single-MCU dual-arm system for industrial/hazardous tasks.  
 ----
 
 # Research Project
@@ -58,7 +58,7 @@ My work bridges robotics, control systems, and mechanical design, with expertise
 
 ---
 
-**🛠️ Skills**  
+# Skills  
 - **Languages**: Chinese (Native), English (Fluent).  
 - **Tools**: Python, MATLAB, SolidWorks, AutoCAD, SPSS.  
 - **Robotics**: ROS, SLAM, MPC control, Adina structural analysis.  
