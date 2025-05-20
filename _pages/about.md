@@ -35,10 +35,12 @@ My work bridges robotics, control systems, and mechanical design, with expertise
 - **Machines**: *"Lattice-Hopping: Path Planning Algorithm for High-Density Storage Systems"* (Third Author).  
 
 
-**Patents**  
+---
+### Patents
 **Double Arm Robot** (First Inventor)  
-* Designed a single-MCU dual-arm system for industrial/hazardous tasks.  
-----
+- Designed a single-MCU dual-arm system for industrial/hazardous tasks.
+---
+
 
 # Research Project
 
