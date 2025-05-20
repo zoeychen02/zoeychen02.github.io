@@ -10,13 +10,7 @@ redirect_from:
 🎓 Master of Science in Engineering (Mechanical Engineering) at The University of Hong Kong. 
 
 ---
-permalink: /
-title: "Research Focus"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
---- 
+# Research Focus
 My work bridges robotics, control systems, and mechanical design, with expertise in:  
 🤖 **Bipedal & Legged Robots** (gait optimization, ZMP/MPC control, four-link mechanisms).  
 🚀 **3D Hopping Robots** (parallel 3-RSR mechanism, stability enhancement, hardware integration).  
@@ -25,9 +19,10 @@ My work bridges robotics, control systems, and mechanical design, with expertise
 
 ---
 
-**Publications**  
+# Publications  
 
 **Paper**
+
 **Applied Sciences 2023**  
 **"Dynamic Optimization of Mechanism Parameters of Bipedal Robot Considering Full-Range Walking Energy Efficiency"**  
 🔗 DOI: [10.3390/app131910791](https://doi.org/10.3390/app131910791)  
@@ -39,12 +34,12 @@ My work bridges robotics, control systems, and mechanical design, with expertise
 - **Machines**: *"Lattice-Hopping: Path Planning Algorithm for High-Density Storage Systems"* (Third Author).  
 
 
-**💡 Patents**  
+**Patents**  
 **Double Arm Robot** (First Inventor)  
 - Designed a single-MCU dual-arm system for industrial/hazardous tasks.  
 ----
 
-**🚀 Research Highlights**  
+# Research Project
 
 **3D Hopping Robot with 3-RSR Mechanism** (2024–Present)  
 - Designed control algorithms for stable hopping; optimized hardware integration (motors, sensors).
