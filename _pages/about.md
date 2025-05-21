@@ -19,8 +19,7 @@ My work bridges robotics, control systems, and mechanical design, with expertise
 🛠️ **Robotic Arms** (6-DOF servo design, Adina structural analysis, industrial applications).  
 
 ---
-
-# Publications  
+# Publications {#publications}
 
 **Paper**
 
