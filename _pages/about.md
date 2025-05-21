@@ -44,7 +44,7 @@ My work bridges robotics, control systems, and mechanical design, with expertise
 
 ---
 
-## Research Projects {#Research Projects}
+## Research projects {#Research projects}
 
 ### 3D Hopping Robot with 3-RSR Mechanism (2024–Present)  
 - Designed control algorithms for stable hopping; optimized hardware integration (motors, sensors).
