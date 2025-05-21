@@ -1,12 +1,12 @@
 ---
----
 permalink: /
-title: "About Me"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 📧 u3631562@connect.hku.hk | 📱 (+86) 19821379715  
 🎓 Master of Science in Engineering (Mechanical Engineering) at The University of Hong Kong.  
