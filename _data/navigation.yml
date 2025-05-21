@@ -9,19 +9,19 @@
 
 main:
   - title: "Publications"
-    url: /https://academicpages.github.io/
+    url: /https://zoeychen02.github.io/
 
   - title: "Research projects"
-    url: /https://academicpages.github.io/
+    url: /https://zoeychen02.github.io/
 
   - title: "Internships"
-    url: /https://academicpages.github.io/  
+    url: /https://zoeychen02.github.io/  
     
   - title: "Videos"
-    url: /https://academicpages.github.io/
+    url: /https://zoeychen02.github.io/
         
   - title: "Honors and Awards"
-    url: /https://academicpages.github.io/
+    url: /https://zoeychen02.github.io/
     
  # - title: "CV"
  #   url: /cv/
@@ -30,5 +30,5 @@ main:
   #   url: /cv-json/
     
   - title: "Education"
-    url: /https://academicpages.github.io/
+    url: /https://zoeychen02.github.io/
 
