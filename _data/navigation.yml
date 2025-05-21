@@ -9,19 +9,19 @@
 
 main:
   - title: "Publications"
-    url: /
+    url: /https://academicpages.github.io/
 
   - title: "Research projects"
-    url: /
+    url: /https://academicpages.github.io/
 
   - title: "Internships"
-    url: /  
+    url: /https://academicpages.github.io/  
     
   - title: "Videos"
-    url: /
+    url: /https://academicpages.github.io/
         
   - title: "Honors and Awards"
-    url: /
+    url: /https://academicpages.github.io/
     
  # - title: "CV"
  #   url: /cv/
@@ -30,5 +30,5 @@ main:
   #   url: /cv-json/
     
   - title: "Education"
-    url: /
+    url: /https://academicpages.github.io/
 
