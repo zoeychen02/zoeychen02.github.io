@@ -20,7 +20,7 @@ main:
   - title: "Videos"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Honors and Awards"
     url: /year-archive/
     
   - title: "CV"
@@ -29,6 +29,6 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
+  - title: "Education"
     url: /markdown/
 
