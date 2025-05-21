@@ -12,16 +12,16 @@ main:
     url: /
 
   - title: "Research projects"
-    url: /talks/    
+    url: /
 
   - title: "Internships"
-    url: /teaching/    
+    url: /  
     
   - title: "Videos"
-    url: /portfolio/
+    url: /
         
   - title: "Honors and Awards"
-    url: /year-archive/
+    url: /
     
  # - title: "CV"
  #   url: /cv/
@@ -30,5 +30,5 @@ main:
   #   url: /cv-json/
     
   - title: "Education"
-    url: /markdown/
+    url: /
 
