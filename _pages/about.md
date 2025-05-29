@@ -15,25 +15,22 @@ redirect_from:
 ---
 
 ## Research Focus
-My work bridges robotics, control systems, and mechanical design, with expertise in:  
-🤖 **Bipedal & Legged Robots** (gait optimization, ZMP/MPC control, four-link mechanisms).  
-🚀 **3D Hopping Robots** (parallel 3-RSR mechanism, stability enhancement, hardware integration).  
-🗺️ **Autonomous Navigation** (SLAM, IMU-camera fusion, path planning for delivery robots).  
-🛠️ **Robotic Arms** (6-DOF servo design, Adina structural analysis, industrial applications).  
-
+My research revolves Robotics and Control, with expertise in:  
+🤖 Structural optimization and control of legged robots. (bipedal robot, Single-legged hopping robot)
+👁️ Vision and control for ground robotics.(manipulators and Autonomous mobile robots)
 ---
 
 ## Publications {#publications}
 
 ### Paper
 
-**Applied Sciences 2023**  
+**Published**  
 **Dynamic Optimization of Mechanism Parameters of Bipedal Robot Considering Full-Range Walking Energy Efficiency**  
 🔗 DOI: [10.3390/app131910791](https://doi.org/10.3390/app131910791)  
-🏆 **First Author** | Published  
+🏆 **First Author** | **Applied Sciences** | **JCR Q1: Engineering**
 
 **Under Review**  
-- **IEEE RAS**: *Appending Propellers to Leg for Enhancing Robustness of Hopping Locomotion* (Second Author).  
+- **CLAWAR 2025**: *Appending Propellers to Leg for Enhancing Robustness of Hopping Locomotion* (Second Author).  
 - **Robotics and Autonomous Systems**: *Bionic Mechanism and Adaptive Control Pattern of Bipedal Robot Walking on Slopes* (Second Author).  
 - **Machines**: *Lattice-Hopping: Path Planning Algorithm for High-Density Storage Systems* (Third Author).  
 
@@ -46,12 +43,12 @@ My work bridges robotics, control systems, and mechanical design, with expertise
 
 ## Research projects {#research-projects}
 
-### 3D Hopping Robot with 3-RSR Mechanism (2024–Present)  
-- Designed control algorithms for stable hopping; optimized hardware integration (motors, sensors).
-
 ### Biped Robots for AI Education (2021–2024)  
 - Led mechanical design of a **four-link humanoid robot** with ZMP/MPC gait control.  
 - Developed ESP32-based motion control system & multi-point foot pressure sensors.  
+
+### 3D Hopping Robot with 3-RSR Mechanism (2024–Present)  
+- Designed control algorithms for stable hopping; optimized hardware integration (motors, sensors).
 
 ### Contactless Delivery Robot (2022–2024)  
 - Implemented SLAM navigation with **95%+ accuracy** via IMU-camera fusion.  
