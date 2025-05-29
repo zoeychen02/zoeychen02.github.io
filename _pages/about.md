@@ -16,8 +16,8 @@ redirect_from:
 
 ## Research Focus
 My research revolves Robotics and Control, with expertise in:  
-**🤖 Structural optimization and control of legged robots. (bipedal robot, Single-legged hopping robot)**
-**👁️ Vision and control for ground robotics.(manipulators and Autonomous mobile robots)**
+🤖 Structural optimization and control of legged robots. (bipedal robot, Single-legged hopping robot)
+👁️ Vision and control for ground robotics.(manipulators and Autonomous mobile robots)
 ---
 
 ## Publications {#publications}
