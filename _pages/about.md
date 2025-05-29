@@ -16,8 +16,8 @@ redirect_from:
 
 ## Research Focus
 My research revolves Robotics and Control, with expertise in:  
-🤖 Structural optimization and control of legged robots. (bipedal robot, Single-legged hopping robot)
-👁️ Vision and control for ground robotics.(manipulators and Autonomous mobile robots)
+**🤖 Structural optimization and control of legged robots. (bipedal robot, Single-legged hopping robot)**
+**👁️ Vision and control for ground robotics.(manipulators and Autonomous mobile robots)**
 ---
 
 ## Publications {#publications}
@@ -47,15 +47,15 @@ My research revolves Robotics and Control, with expertise in:
 - Led mechanical design of a **four-link humanoid robot** with ZMP/MPC gait control.  
 - Developed ESP32-based motion control system & multi-point foot pressure sensors.  
 
-### 3D Hopping Robot with 3-RSR Mechanism (2024–Present)  
-- Designed control algorithms for stable hopping; optimized hardware integration (motors, sensors).
-
 ### Contactless Delivery Robot (2022–2024)  
 - Implemented SLAM navigation with **95%+ accuracy** via IMU-camera fusion.  
 - Created obstacle-avoidance path planning using graph search algorithms.  
 
 ### 6-DOF Educational Robotic Arm (2022–2024)  
 - Led structural analysis (Adina), 3D printing, and servo control for a provincial-level project.
+  
+### 3D Hopping Robot with 3-RSR Mechanism (2024–2025)  
+- Designed control algorithms for stable hopping; optimized hardware integration (motors, sensors).
 
 ---
 
