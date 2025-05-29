@@ -65,12 +65,11 @@ My research revolves Robotics and Control, with expertise in:
 
 ## Videos {#Videos}
 
-![Bipedal robot Demo](/assets/images/animation.gif)
-<img src="/assets/images/animation.gif" alt="描述文字" width="500"/>
-![Bipedal robot Demo](/assets/images/animation.gif)
-<img src="/assets/images/animation.gif" alt="描述文字" width="500"/>
-![Autonomous mobile robot Demo](/assets/images/animation.gif)
-<img src="/assets/images/animation.gif" alt="描述文字" width="500"/>
-![3D Hopping Robot Demo](/assets/images/animation.gif)
-<img src="/assets/images/animation.gif" alt="描述文字" width="500"/>
-
+![Bipedal robot Demo](/assets/images/Bipedal-robot1.gif)
+<img src="/assets/images/Bipedal-robot1.gif" alt="3D Hopping Robot Demo" width="400" height="auto"/>
+![Bipedal robot Demo](/assets/images/Bipedal-robot2.gif)
+<img src="/assets/images/Bipedal-robot2.gif" alt="3D Hopping Robot Demo" width="400" height="auto"/>
+![Autonomous mobile robot Demo](/assets/images/AGV.gif)
+<img src="/assets/images/AGV.gif" alt="3D Hopping Robot Demo" width="400" height="auto"/>
+![3D Hopping Robot Demo](/assets/images/Hopping-robot.gif)
+<img src="/assets/images/Hopping-robot.gif" alt="3D Hopping Robot Demo" width="400" height="auto"/>
