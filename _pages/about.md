@@ -58,21 +58,8 @@ My work bridges robotics, control systems, and mechanical design, with expertise
 - Created obstacle-avoidance path planning using graph search algorithms.  
 
 ### 6-DOF Educational Robotic Arm (2022–2024)  
-- Led structural analysis (Adina), 3D printing, and servo control for a provincial-level project.  
+- Led structural analysis (Adina), 3D printing, and servo control for a provincial-level project.
 
 ---
 
-
-## Skills {#skills}
-
-**Experimental Tools**  
-- **Modeling**: SolidWorks, Catia, Fusion360，AutoCAD
-- **Simulation**: Adina, MATLAB, Simulink，ROS
-- **Data Analysis**: SPSS，Origin，Axglyph
-- **Technical Writing**: Overleaf (LaTeX), Microsoft Office, Adobe Photoshop, Premiere Pro  
-
-**Programming Languages**  
-- Python, C, C++
-
-**Language Proficiency**  
-- Chinese (Native), English (Fluent)  
+## Videos {#Videos}
