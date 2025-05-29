@@ -20,8 +20,8 @@ main:
   - title: "Videos"
     url: /
         
-  - title: "Honors and Awards"
-    url: /
+ # - title: "Honors and Awards"
+ #  url: /
     
  # - title: "CV"
  #   url: /cv/
@@ -29,6 +29,6 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Education"
-    url: /
+ #  - title: "Education"
+ #   url: /
 
