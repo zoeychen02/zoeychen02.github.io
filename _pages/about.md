@@ -62,7 +62,17 @@ My work bridges robotics, control systems, and mechanical design, with expertise
 
 ---
 
-## Skills  
-- **Languages**: Chinese (Native), English (Fluent).  
-- **Tools**: Python, MATLAB, SolidWorks, AutoCAD, SPSS.  
-- **Robotics**: ROS, SLAM, MPC control, Adina structural analysis.
+
+## Skills {#skills}
+
+**Experimental Tools**  
+- **Modeling**: SolidWorks, Catia, Fusion360，AutoCAD
+- **Simulation**: Adina, MATLAB, Simulink，ROS
+- **Data Analysis**: SPSS，Origin，Axglyph
+- **Technical Writing**: Overleaf (LaTeX), Microsoft Office, Adobe Photoshop, Premiere Pro  
+
+**Programming Languages**  
+- Python, C, C++
+
+**Language Proficiency**  
+- Chinese (Native), English (Fluent)  
