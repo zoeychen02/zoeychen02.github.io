@@ -67,14 +67,14 @@ My research revolves Robotics and Control, with expertise in:
 
 ## Videos
 
-### Bipedal Robot Demo  
-![Bipedal robot Demo](/assets/images/Bipedal-robot1.gif)  
+### Bipedal Robot Demo
+![Bipedal robot Demo](/assets/images/Bipedal%20robot1.gif)  
 
-### Bipedal Robot Demo  
-![Bipedal robot Demo](/assets/images/Bipedal-robot2.gif)  
+### Bipedal Robot Demo
+![Bipedal robot Demo](/assets/images/Bipedal%20robot2.gif)  
 
-### 3D Hopping Robot Demo  
-![3D Hopping Robot Demo](/assets/images/Hopping-robot.gif)  
+### 3D Hopping Robot Demo
+![Hopping robot Demo](/assets/images/Hopping%20robot.gif)  
 
-### Autonomous Mobile Robot Demo  
-![Autonomous mobile robot Demo](/assets/images/AGV.gif)  
+### Autonomous Mobile Robot Demo
+![AGV robot Demo](/assets/images/AGV.gif)
