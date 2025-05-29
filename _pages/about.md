@@ -16,8 +16,8 @@ redirect_from:
 
 ## Research Focus
 My research revolves Robotics and Control, with expertise in:  
-🤖 Structural optimization and control of legged robots. (bipedal robot, Single-legged hopping robot)
-👁️ Vision and control for ground robotics.(manipulators and Autonomous mobile robots)
+-🤖 Structural optimization and control of legged robots. (bipedal robot, Single-legged hopping robot)    
+-👁️ Vision and control for ground robotics.(manipulators and Autonomous mobile robots)
 ---
 
 ## Publications {#publications}
@@ -25,9 +25,10 @@ My research revolves Robotics and Control, with expertise in:
 ### Paper
 
 **Published**  
-**Dynamic Optimization of Mechanism Parameters of Bipedal Robot Considering Full-Range Walking Energy Efficiency**  
-🔗 DOI: [10.3390/app131910791](https://doi.org/10.3390/app131910791)  
-🏆 **First Author** | **Applied Sciences** | **JCR Q1: Engineering**
+
+**"Dynamic Optimization of Mechanism Parameters of Bipedal Robot Considering Full-Range Walking Energy Efficiency"**  
+-🔗 DOI: [10.3390/app131910791](https://doi.org/10.3390/app131910791)  
+ 🏆 **First Author** | **Applied Sciences** | **JCR Q1: Engineering**
 
 **Under Review**  
 - **CLAWAR 2025**: *Appending Propellers to Leg for Enhancing Robustness of Hopping Locomotion* (Second Author).  
@@ -43,20 +44,33 @@ My research revolves Robotics and Control, with expertise in:
 
 ## Research projects {#research-projects}
 
-### Biped Robots for AI Education (2021–2024)  
-- Led mechanical design of a **four-link humanoid robot** with ZMP/MPC gait control.  
-- Developed ESP32-based motion control system & multi-point foot pressure sensors.  
+### Bipedal Robot (2021–2024)  
+-Designed four-link bipedal mechanism and developed gait control system based on MPC.
+-Conducted parametric optimization studies to improve walking efficiency through mass distribution and link length adjustments
 
-### Contactless Delivery Robot (2022–2024)  
-- Implemented SLAM navigation with **95%+ accuracy** via IMU-camera fusion.  
-- Created obstacle-avoidance path planning using graph search algorithms.  
+### Autonomous mobile robot (2022–2024)  
+- Design a lightweight mobile robot structure and add an anti-collision chassis design to reduce wear.  
+- Developed multi-sensor navigation system (LiDAR+IMU+RGB-D) with adaptive fusion algorithm.  
 
-### 6-DOF Educational Robotic Arm (2022–2024)  
-- Led structural analysis (Adina), 3D printing, and servo control for a provincial-level project.
+### 6-DOF Robotic Arm (2022–2024)  
+-Completed mechanical design and FEA analysis (Adina) for educational robotic arm.
+-Developed object recognition and grasping using OpenCV.
   
 ### 3D Hopping Robot with 3-RSR Mechanism (2024–2025)  
-- Designed control algorithms for stable hopping; optimized hardware integration (motors, sensors).
+- Optimize 3-RSR parallel mechanism for stable 3D hopping.
+- Implemented PID-based altitude control with propeller assistance.(2D&3D)
+
 
 ---
 
 ## Videos {#Videos}
+
+![Bipedal robot Demo](/assets/images/animation.gif)
+<img src="/assets/images/animation.gif" alt="描述文字" width="500"/>
+![Bipedal robot Demo](/assets/images/animation.gif)
+<img src="/assets/images/animation.gif" alt="描述文字" width="500"/>
+![Autonomous mobile robot Demo](/assets/images/animation.gif)
+<img src="/assets/images/animation.gif" alt="描述文字" width="500"/>
+![3D Hopping Robot Demo](/assets/images/animation.gif)
+<img src="/assets/images/animation.gif" alt="描述文字" width="500"/>
+
