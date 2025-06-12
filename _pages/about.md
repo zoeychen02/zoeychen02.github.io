@@ -49,21 +49,27 @@ My research revolves Robotics and Control, with expertise in:
 ## Research projects {#research-projects}
 
 ### Bipedal Robot (2021–2024)  
-- Designed a hybrid-chain biped robot with 12-DOF legs using four-bar linkages to eliminate singularities and enable straight-leg walking. Developed efficient kinematic solutions via vector coordinate methods, validated in MATLAB.
-- Established a simplified dynamic model with the global energy efficiency as the optimization objective, the sequential quadratic programming (SQP) method was adopted to optimize the mass distribution and rod length parameters.
-- Developed an experimental platform for the hybrid chain bipedal robot based on the optimization results. The key components were optimized through static analysis, a hierarchical control system was designed, and the feasibility of the kinematic trajectory was verified through ROS+RVIZ simulation.
-""
+- Designed a hybrid-chain biped robot with 12-DOF legs using four-bar linkages to eliminate singularities and enable straight-leg walking.
+- Established a simplified dynamic model with the global energy efficiency as the optimization objective, the sequential quadratic programming (SQP) method was adopted to optimize the mass distribution and rod length parameters, developed an experimental platform for the hybrid chain bipedal robot based on the optimization results.
+
+<img src="images/.gif" alt="Autonomous Mobile Robot" width="400" style="display: block; margin: 0 auto;">
 
 ### Autonomous mobile robot (2022–2024)
 - Design a lightweight mobile robot structure and add an anti-collision chassis design to reduce wear.
 - Developed multi-sensor navigation system (LiDAR+IMU+RGB-D) with adaptive fusion algorithm.
+
+
 <img src="images/AGV.gif" alt="Autonomous Mobile Robot" width="400" style="display: block; margin: 0 auto;">
 
 ### 6-DOF Robotic Arm (2022–2024)
-- Completed mechanical design and FEA analysis (Adina) for educational robotic arm. -Developed object recognition and grasping using OpenCV.
+- Completed mechanical design and FEA analysis (Adina) for educational robotic arm.
+- Developed object recognition and grasping using OpenCV.
+
 <img src="images/arm robot.png" alt="6-DOF Robotic Arm" width="300" style="display: block; margin: 0 auto;">
 
 ### 3D Hopping Robot with 3-RSR Mechanism (2024–2025)
 - Developed a propeller-enhanced hopping robot with optimized 3-RSR parallel leg mechanism, achieving stable locomotion through strategic thruster placement and dynamic torque balancing.
 - Created a hybrid control system integrating leg dynamics and propeller thrust allocation, implementing real-time QP-based optimization for disturbance rejection (20° recovery capability).
-<img src="images/3D hopping robot.png" alt="3D Hopping Robot" width="350" style="display: block; margin: 0 auto;">
+
+
+<img src="images/Hopping robot.gif" alt="3D Hopping Robot" width="350" style="display: block; margin: 0 auto;">
