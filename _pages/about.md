@@ -52,12 +52,12 @@ My research revolves Robotics and Control, with expertise in:
 - Developed an experimental platform for the hybrid chain bipedal robot based on the optimization results. The key components were optimized through static analysis, a hierarchical control system was designed, and the feasibility of the kinematic trajectory was verified through ROS+RVIZ simulation.
 
 ### Autonomous mobile robot (2022–2024)
-Design a lightweight mobile robot structure and add an anti-collision chassis design to reduce wear.
-Developed multi-sensor navigation system (LiDAR+IMU+RGB-D) with adaptive fusion algorithm.
+- Design a lightweight mobile robot structure and add an anti-collision chassis design to reduce wear.
+- Developed multi-sensor navigation system (LiDAR+IMU+RGB-D) with adaptive fusion algorithm.
 
 ### 6-DOF Robotic Arm (2022–2024)
--Completed mechanical design and FEA analysis (Adina) for educational robotic arm. -Developed object recognition and grasping using OpenCV.
+- Completed mechanical design and FEA analysis (Adina) for educational robotic arm. -Developed object recognition and grasping using OpenCV.
 
 ### 3D Hopping Robot with 3-RSR Mechanism (2024–2025)
-Optimize 3-RSR parallel mechanism for stable 3D hopping.
-Implemented PID-based altitude control with propeller assistance.(2D&3D)
+- Developed a propeller-enhanced hopping robot with optimized 3-RSR parallel leg mechanism, achieving stable locomotion through strategic thruster placement and dynamic torque balancing.
+- Created a hybrid control system integrating leg dynamics and propeller thrust allocation, implementing real-time QP-based optimization for disturbance rejection (20° recovery capability).
