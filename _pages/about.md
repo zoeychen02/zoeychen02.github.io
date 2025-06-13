@@ -29,12 +29,12 @@ My research revolves Robotics and Control, with expertise in:
 
 **"Dynamic Optimization of Mechanism Parameters of Bipedal Robot Considering Full-Range Walking Energy Efficiency"**   
 -🔗 DOI: [10.3390/app131910791](https://doi.org/10.3390/app131910791)  
-- First Author | Applied Sciences | JCR Q1: Engineering
+- First Author/Applied Sciences/JCR Q1: Engineering
 
 **Accepted** 
 
 **"Appending Propellers to Leg for Enhancing Robustness of Hopping Locomotion"** 
-- Second Author | CLAWAR 2025 | International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines
+- Second Author/CLAWAR 2025/International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines
 
 **Under Review**  
 
