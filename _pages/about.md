@@ -45,8 +45,8 @@ My research revolves Robotics and Control, with expertise in:
 **"*Bionic Mechanism and Adaptive Control Pattern of Bipedal Robot Walking on Slopes*"**
 - First Author
 - "Robotics and Autonomous Systems"
-- JCR Q2：Robotics
-  
+- JCR Q1：AUTOMATION & CONTROL SYSTEMS
+-  
 ### Patents
 
 **Double Arm Robot** (First Inventor)  
