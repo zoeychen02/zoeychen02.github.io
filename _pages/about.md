@@ -56,7 +56,7 @@ My research revolves Robotics and Control, with expertise in:
 
 ## Research projects {#research-projects}
 
-### 6-DOF Robotic Arm (2022–2024)
+### 6-DOF Robotic Arm (2020–2021)
 - Completed mechanical design and FEA analysis (Adina) for educational robotic arm.
 - Developed object recognition and grasping using OpenCV.
 
@@ -64,14 +64,14 @@ My research revolves Robotics and Control, with expertise in:
 <img src="images/robotic arm.jpg" alt="6-DOF Robotic Arm" width="300" style="display: block; margin: 0 auto;">
 
 
-### Autonomous mobile robot (2022–2024)
+### Autonomous mobile robot (2021–2022)
 - Design a lightweight mobile robot structure and add an anti-collision chassis design to reduce wear.
 - Developed multi-sensor navigation system (LiDAR+IMU+RGB-D) with adaptive fusion algorithm.
 
 
 <img src="images/AGV.gif" alt="Autonomous Mobile Robot" width="400" style="display: block; margin: 0 auto;">
 
-### Bipedal Robot (2021–2024)  
+### Bipedal Robot (2022–2024)  
 - Designed a hybrid-chain biped robot with 12-DOF legs using four-bar linkages to eliminate singularities and enable straight-leg walking.
 - Established a simplified dynamic model with the global energy efficiency as the optimization objective, the sequential quadratic programming (SQP) method was adopted to optimize the mass distribution and rod length parameters, developed an experimental platform for the hybrid chain bipedal robot based on the optimization results.
 
