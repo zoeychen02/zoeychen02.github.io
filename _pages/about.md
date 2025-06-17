@@ -56,11 +56,13 @@ My research revolves Robotics and Control, with expertise in:
 
 ## Research projects {#research-projects}
 
-### Bipedal Robot (2021–2024)  
-- Designed a hybrid-chain biped robot with 12-DOF legs using four-bar linkages to eliminate singularities and enable straight-leg walking.
-- Established a simplified dynamic model with the global energy efficiency as the optimization objective, the sequential quadratic programming (SQP) method was adopted to optimize the mass distribution and rod length parameters, developed an experimental platform for the hybrid chain bipedal robot based on the optimization results.
+### 6-DOF Robotic Arm (2022–2024)
+- Completed mechanical design and FEA analysis (Adina) for educational robotic arm.
+- Developed object recognition and grasping using OpenCV.
 
-<img src="images/bipedal robot.png" alt="Autonomous Mobile Robot" width="400" style="display: block; margin: 0 auto;">
+
+<img src="images/arm robot.png" alt="6-DOF Robotic Arm" width="300" style="display: block; margin: 0 auto;">
+
 
 ### Autonomous mobile robot (2022–2024)
 - Design a lightweight mobile robot structure and add an anti-collision chassis design to reduce wear.
@@ -69,11 +71,12 @@ My research revolves Robotics and Control, with expertise in:
 
 <img src="images/AGV.gif" alt="Autonomous Mobile Robot" width="400" style="display: block; margin: 0 auto;">
 
-### 6-DOF Robotic Arm (2022–2024)
-- Completed mechanical design and FEA analysis (Adina) for educational robotic arm.
-- Developed object recognition and grasping using OpenCV.
+### Bipedal Robot (2021–2024)  
+- Designed a hybrid-chain biped robot with 12-DOF legs using four-bar linkages to eliminate singularities and enable straight-leg walking.
+- Established a simplified dynamic model with the global energy efficiency as the optimization objective, the sequential quadratic programming (SQP) method was adopted to optimize the mass distribution and rod length parameters, developed an experimental platform for the hybrid chain bipedal robot based on the optimization results.
 
-<img src="images/arm robot.png" alt="6-DOF Robotic Arm" width="300" style="display: block; margin: 0 auto;">
+
+<img src="images/bipedal robot.png" alt="Autonomous Mobile Robot" width="400" style="display: block; margin: 0 auto;">
 
 ### 3D Hopping Robot with 3-RSR Mechanism (2024–2025)
 - Developed a propeller-enhanced hopping robot with optimized 3-RSR parallel leg mechanism, achieving stable locomotion through strategic thruster placement and dynamic torque balancing.
