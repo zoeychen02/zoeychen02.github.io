@@ -61,7 +61,7 @@ My research revolves Robotics and Control, with expertise in:
 - Developed object recognition and grasping using OpenCV.
 
 
-<img src="images/arm robot.png" alt="6-DOF Robotic Arm" width="300" style="display: block; margin: 0 auto;">
+<img src="images/robotic arm.jpg" alt="6-DOF Robotic Arm" width="300" style="display: block; margin: 0 auto;">
 
 
 ### Autonomous mobile robot (2022–2024)
